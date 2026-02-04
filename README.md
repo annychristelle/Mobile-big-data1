@@ -95,10 +95,6 @@ Created aggregate columns: `total_sms`, `total_calls`, `total_internet`, `total_
 assignment-1/
 ├── Assignment1_Solution.ipynb
 ├── README.md
-├── requirements.txt
-├── (3 CSV files)
-├── outputs/ (combined_mobile_activity_clean.csv, analysis_summary.txt)
-└── (4 PNG charts)
 ```
 
 ---
